@@ -15,8 +15,6 @@
   "bugs": {
     "url": "https://github.com/bouzuya/hubot-fact/issues"
   },
-  "dependencies": {
-  },
   "devDependencies": {
     "boolify-string": "^0.1.0",
     "coffee-script": "^1.7.0",
@@ -36,6 +34,9 @@
     "gulp-util": "^2.2.19",
     "power-assert": "^0.7.2",
     "sinon": "^1.10.3"
+  },
+  "peerDependencies": {
+    "coffee-script": "1.7.x"
   },
   "main": "index.coffee",
   "scripts": {
