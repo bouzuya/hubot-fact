@@ -1,7 +1,7 @@
 {
   "name": "hubot-fact",
   "description": "A Hubot script that calculate factorials",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "author": "bouzuya <m@bouzuya.net>",
   "license": "MIT",
   "keywords": [
